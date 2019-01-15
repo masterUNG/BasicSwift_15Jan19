@@ -14,6 +14,19 @@ var number2: Int = 555
 var number3: Double = 12.34
 var status1: Bool = true
 
+//Constant
+let name2: String = "Nopita"
+//name2 = "Sunako" ไม่สามารถ Assing Value ได้
+
+//Operation
+let answer1: Int = number1 + 100
+let number4 = "500"
+let answer2 = answer1 + Int(number3)
+
+
+
+
+
 
 
 
